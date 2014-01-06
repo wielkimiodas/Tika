@@ -1,0 +1,162 @@
+ --  data on file "194C-LA-232722 Section 1 -161.PDF"
+Detected lang: en
+Author: FBI
+File type: application/pdf
+Last modified: 2011-11-08T02:04:48Z
+
+ --  data on file "89-4286 Section 96  P1 Bulky 2018 -115.pdf"
+Detected lang: lt
+Author: FBI
+File type: application/pdf
+Last modified: 2011-11-08T04:03:28Z
+
+ --  data on file "bluebook.pdf"
+Detected lang: en
+Author: FBI
+File type: application/pdf
+Last modified: 2011-11-08T01:34:40Z
+
+ --  data on file "elvis8.pdf"
+Detected lang: en
+Author: FBI
+File type: application/pdf
+Last modified: 2011-11-08T02:35:05Z
+
+ --  data on file "erosevlt7b.pdf"
+Detected lang: en
+Author: FBI
+File type: application/pdf
+Last modified: 2011-11-08T02:56:57Z
+
+ --  data on file "FBI Transcripts Tapes 010x - 14x.pdf"
+Detected lang: en
+Author: 
+File type: application/pdf
+Last modified: 2011-11-08T02:24:32Z
+
+ --  data on file "hellman1a.pdf"
+Detected lang: en
+Author: FBI
+File type: application/pdf
+Last modified: 2011-11-08T02:47:55Z
+
+ --  data on file "Investigation May 2002.pdf"
+Detected lang: en
+Author: FBI
+File type: application/pdf
+Last modified: 2011-11-08T03:18:28Z
+
+ --  data on file "krivitsk1a.pdf"
+Detected lang: lt
+Author: FBI
+File type: application/pdf
+Last modified: 2011-11-08T02:54:13Z
+
+ --  data on file "national_invest_comm_aerial_part01.pdf"
+Detected lang: en
+Author: 
+File type: application/pdf
+Last modified: 2011-11-08T02:58:03Z
+
+ --  data on file "roswell.pdf"
+Detected lang: hu
+Author: FBI
+File type: application/pdf
+Last modified: 2011-11-08T01:15:42Z
+
+ --  data on file "ufo1.pdf"
+Detected lang: en
+Author: FBI
+File type: application/pdf
+Last modified: 2011-11-08T02:57:35Z
+
+ --  data on file "ufo10.pdf"
+Detected lang: en
+Author: FBI
+File type: application/pdf
+Last modified: 2011-11-08T02:57:36Z
+
+ --  data on file "ufo11.pdf"
+Detected lang: en
+Author: FBI
+File type: application/pdf
+Last modified: 2011-11-08T02:57:38Z
+
+ --  data on file "ufo12.pdf"
+Detected lang: en
+Author: FBI
+File type: application/pdf
+Last modified: 2011-11-08T02:57:40Z
+
+ --  data on file "ufo13.pdf"
+Detected lang: sk
+Author: FBI
+File type: application/pdf
+Last modified: 2011-11-08T02:57:42Z
+
+ --  data on file "ufo14.pdf"
+Detected lang: en
+Author: FBI
+File type: application/pdf
+Last modified: 2011-11-08T02:57:43Z
+
+ --  data on file "ufo15.pdf"
+Detected lang: en
+Author: FBI
+File type: application/pdf
+Last modified: 2011-11-08T02:57:45Z
+
+ --  data on file "ufo16.pdf"
+Detected lang: en
+Author: FBI
+File type: application/pdf
+Last modified: 2011-11-08T02:57:47Z
+
+ --  data on file "ufo2.pdf"
+Detected lang: en
+Author: FBI
+File type: application/pdf
+Last modified: 2011-11-08T02:57:49Z
+
+ --  data on file "ufo3.pdf"
+Detected lang: en
+Author: FBI
+File type: application/pdf
+Last modified: 2011-11-08T02:57:50Z
+
+ --  data on file "ufo4.pdf"
+Detected lang: en
+Author: FBI
+File type: application/pdf
+Last modified: 2011-11-08T02:57:52Z
+
+ --  data on file "ufo5.pdf"
+Detected lang: en
+Author: FBI
+File type: application/pdf
+Last modified: 2011-11-08T02:57:54Z
+
+ --  data on file "ufo6.pdf"
+Detected lang: en
+Author: FBI
+File type: application/pdf
+Last modified: 2011-11-08T02:57:56Z
+
+ --  data on file "ufo7.pdf"
+Detected lang: en
+Author: FBI
+File type: application/pdf
+Last modified: 2011-11-08T02:57:57Z
+
+ --  data on file "ufo8.pdf"
+Detected lang: is
+Author: FBI
+File type: application/pdf
+Last modified: 2011-11-08T02:57:59Z
+
+ --  data on file "ufo9.pdf"
+Detected lang: hu
+Author: FBI
+File type: application/pdf
+Last modified: 2011-11-08T02:58:01Z
+
