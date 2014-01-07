@@ -1,11 +1,11 @@
 Keyword(s) used: UFO, flying disc, saucer, extraterrestrial craft, flying saucer
 No of files processed: 27
-No of files containing keyword(s): 0
+No of files containing keyword(s): 22
 
 No of occurrences of each keyword:
 ----------------------------------
-	UFO: 0
-	flying disc: 0
-	saucer: 0
+	UFO: 106
+	flying disc: 98
+	saucer: 223
 	extraterrestrial craft: 0
-	flying saucer: 0
+	flying saucer: 68

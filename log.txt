@@ -1,8 +1,12 @@
+
+
  --  data on file "194C-LA-232722 Section 1 -161.PDF"
 Detected lang: en
 Author: FBI
 File type: application/pdf
 Last modified: 2011-11-08T02:04:48Z
+
+
 
  --  data on file "89-4286 Section 96  P1 Bulky 2018 -115.pdf"
 Detected lang: lt
@@ -10,11 +14,18 @@ Author: FBI
 File type: application/pdf
 Last modified: 2011-11-08T04:03:28Z
 
+
+
  --  data on file "bluebook.pdf"
 Detected lang: en
 Author: FBI
 File type: application/pdf
 Last modified: 2011-11-08T01:34:40Z
+
+Tue Jan 07 20:26:15 CET 2014 -- "UFO" found in file "bluebook.pdf"
+Tue Jan 07 20:26:15 CET 2014 -- "saucer" found in file "bluebook.pdf"
+Tue Jan 07 20:26:15 CET 2014 -- "flying saucer" found in file "bluebook.pdf"
+
 
  --  data on file "elvis8.pdf"
 Detected lang: en
@@ -22,11 +33,19 @@ Author: FBI
 File type: application/pdf
 Last modified: 2011-11-08T02:35:05Z
 
+Tue Jan 07 20:26:16 CET 2014 -- "UFO" found in file "elvis8.pdf"
+Tue Jan 07 20:26:16 CET 2014 -- "saucer" found in file "elvis8.pdf"
+
+
  --  data on file "erosevlt7b.pdf"
 Detected lang: en
 Author: FBI
 File type: application/pdf
 Last modified: 2011-11-08T02:56:57Z
+
+Tue Jan 07 20:26:17 CET 2014 -- "UFO" found in file "erosevlt7b.pdf"
+Tue Jan 07 20:26:17 CET 2014 -- "saucer" found in file "erosevlt7b.pdf"
+
 
  --  data on file "FBI Transcripts Tapes 010x - 14x.pdf"
 Detected lang: en
@@ -34,11 +53,17 @@ Author:
 File type: application/pdf
 Last modified: 2011-11-08T02:24:32Z
 
+Tue Jan 07 20:26:18 CET 2014 -- "saucer" found in file "FBI Transcripts Tapes 010x - 14x.pdf"
+
+
  --  data on file "hellman1a.pdf"
 Detected lang: en
 Author: FBI
 File type: application/pdf
 Last modified: 2011-11-08T02:47:55Z
+
+Tue Jan 07 20:26:18 CET 2014 -- "saucer" found in file "hellman1a.pdf"
+
 
  --  data on file "Investigation May 2002.pdf"
 Detected lang: en
@@ -46,11 +71,15 @@ Author: FBI
 File type: application/pdf
 Last modified: 2011-11-08T03:18:28Z
 
+
+
  --  data on file "krivitsk1a.pdf"
 Detected lang: lt
 Author: FBI
 File type: application/pdf
 Last modified: 2011-11-08T02:54:13Z
+
+
 
  --  data on file "national_invest_comm_aerial_part01.pdf"
 Detected lang: en
@@ -58,11 +87,17 @@ Author:
 File type: application/pdf
 Last modified: 2011-11-08T02:58:03Z
 
+Tue Jan 07 20:26:19 CET 2014 -- "UFO" found in file "national_invest_comm_aerial_part01.pdf"
+Tue Jan 07 20:26:19 CET 2014 -- "saucer" found in file "national_invest_comm_aerial_part01.pdf"
+
+
  --  data on file "roswell.pdf"
 Detected lang: hu
 Author: FBI
 File type: application/pdf
 Last modified: 2011-11-08T01:15:42Z
+
+
 
  --  data on file "ufo1.pdf"
 Detected lang: en
@@ -70,11 +105,19 @@ Author: FBI
 File type: application/pdf
 Last modified: 2011-11-08T02:57:35Z
 
+Tue Jan 07 20:26:20 CET 2014 -- "flying disc" found in file "ufo1.pdf"
+Tue Jan 07 20:26:20 CET 2014 -- "saucer" found in file "ufo1.pdf"
+Tue Jan 07 20:26:20 CET 2014 -- "flying saucer" found in file "ufo1.pdf"
+
+
  --  data on file "ufo10.pdf"
 Detected lang: en
 Author: FBI
 File type: application/pdf
 Last modified: 2011-11-08T02:57:36Z
+
+Tue Jan 07 20:26:20 CET 2014 -- "saucer" found in file "ufo10.pdf"
+
 
  --  data on file "ufo11.pdf"
 Detected lang: en
@@ -82,11 +125,20 @@ Author: FBI
 File type: application/pdf
 Last modified: 2011-11-08T02:57:38Z
 
+Tue Jan 07 20:26:21 CET 2014 -- "saucer" found in file "ufo11.pdf"
+Tue Jan 07 20:26:21 CET 2014 -- "flying saucer" found in file "ufo11.pdf"
+
+
  --  data on file "ufo12.pdf"
 Detected lang: en
 Author: FBI
 File type: application/pdf
 Last modified: 2011-11-08T02:57:40Z
+
+Tue Jan 07 20:26:22 CET 2014 -- "UFO" found in file "ufo12.pdf"
+Tue Jan 07 20:26:22 CET 2014 -- "saucer" found in file "ufo12.pdf"
+Tue Jan 07 20:26:22 CET 2014 -- "flying saucer" found in file "ufo12.pdf"
+
 
  --  data on file "ufo13.pdf"
 Detected lang: sk
@@ -94,11 +146,19 @@ Author: FBI
 File type: application/pdf
 Last modified: 2011-11-08T02:57:42Z
 
+Tue Jan 07 20:26:22 CET 2014 -- "saucer" found in file "ufo13.pdf"
+Tue Jan 07 20:26:22 CET 2014 -- "flying saucer" found in file "ufo13.pdf"
+
+
  --  data on file "ufo14.pdf"
 Detected lang: en
 Author: FBI
 File type: application/pdf
 Last modified: 2011-11-08T02:57:43Z
+
+Tue Jan 07 20:26:23 CET 2014 -- "saucer" found in file "ufo14.pdf"
+Tue Jan 07 20:26:23 CET 2014 -- "flying saucer" found in file "ufo14.pdf"
+
 
  --  data on file "ufo15.pdf"
 Detected lang: en
@@ -106,11 +166,22 @@ Author: FBI
 File type: application/pdf
 Last modified: 2011-11-08T02:57:45Z
 
+Tue Jan 07 20:26:24 CET 2014 -- "UFO" found in file "ufo15.pdf"
+Tue Jan 07 20:26:24 CET 2014 -- "saucer" found in file "ufo15.pdf"
+Tue Jan 07 20:26:24 CET 2014 -- "flying saucer" found in file "ufo15.pdf"
+
+
  --  data on file "ufo16.pdf"
 Detected lang: en
 Author: FBI
 File type: application/pdf
 Last modified: 2011-11-08T02:57:47Z
+
+Tue Jan 07 20:26:24 CET 2014 -- "UFO" found in file "ufo16.pdf"
+Tue Jan 07 20:26:24 CET 2014 -- "flying disc" found in file "ufo16.pdf"
+Tue Jan 07 20:26:24 CET 2014 -- "saucer" found in file "ufo16.pdf"
+Tue Jan 07 20:26:24 CET 2014 -- "flying saucer" found in file "ufo16.pdf"
+
 
  --  data on file "ufo2.pdf"
 Detected lang: en
@@ -118,11 +189,21 @@ Author: FBI
 File type: application/pdf
 Last modified: 2011-11-08T02:57:49Z
 
+Tue Jan 07 20:26:25 CET 2014 -- "flying disc" found in file "ufo2.pdf"
+Tue Jan 07 20:26:25 CET 2014 -- "saucer" found in file "ufo2.pdf"
+Tue Jan 07 20:26:25 CET 2014 -- "flying saucer" found in file "ufo2.pdf"
+
+
  --  data on file "ufo3.pdf"
 Detected lang: en
 Author: FBI
 File type: application/pdf
 Last modified: 2011-11-08T02:57:50Z
+
+Tue Jan 07 20:26:25 CET 2014 -- "flying disc" found in file "ufo3.pdf"
+Tue Jan 07 20:26:25 CET 2014 -- "saucer" found in file "ufo3.pdf"
+Tue Jan 07 20:26:25 CET 2014 -- "flying saucer" found in file "ufo3.pdf"
+
 
  --  data on file "ufo4.pdf"
 Detected lang: en
@@ -130,11 +211,19 @@ Author: FBI
 File type: application/pdf
 Last modified: 2011-11-08T02:57:52Z
 
+Tue Jan 07 20:26:26 CET 2014 -- "flying disc" found in file "ufo4.pdf"
+Tue Jan 07 20:26:26 CET 2014 -- "saucer" found in file "ufo4.pdf"
+Tue Jan 07 20:26:26 CET 2014 -- "flying saucer" found in file "ufo4.pdf"
+
+
  --  data on file "ufo5.pdf"
 Detected lang: en
 Author: FBI
 File type: application/pdf
 Last modified: 2011-11-08T02:57:54Z
+
+Tue Jan 07 20:26:27 CET 2014 -- "flying disc" found in file "ufo5.pdf"
+
 
  --  data on file "ufo6.pdf"
 Detected lang: en
@@ -142,11 +231,21 @@ Author: FBI
 File type: application/pdf
 Last modified: 2011-11-08T02:57:56Z
 
+Tue Jan 07 20:26:27 CET 2014 -- "flying disc" found in file "ufo6.pdf"
+Tue Jan 07 20:26:27 CET 2014 -- "saucer" found in file "ufo6.pdf"
+Tue Jan 07 20:26:27 CET 2014 -- "flying saucer" found in file "ufo6.pdf"
+
+
  --  data on file "ufo7.pdf"
 Detected lang: en
 Author: FBI
 File type: application/pdf
 Last modified: 2011-11-08T02:57:57Z
+
+Tue Jan 07 20:26:28 CET 2014 -- "flying disc" found in file "ufo7.pdf"
+Tue Jan 07 20:26:28 CET 2014 -- "saucer" found in file "ufo7.pdf"
+Tue Jan 07 20:26:28 CET 2014 -- "flying saucer" found in file "ufo7.pdf"
+
 
  --  data on file "ufo8.pdf"
 Detected lang: is
@@ -154,9 +253,15 @@ Author: FBI
 File type: application/pdf
 Last modified: 2011-11-08T02:57:59Z
 
+Tue Jan 07 20:26:29 CET 2014 -- "saucer" found in file "ufo8.pdf"
+Tue Jan 07 20:26:29 CET 2014 -- "flying saucer" found in file "ufo8.pdf"
+
+
  --  data on file "ufo9.pdf"
 Detected lang: hu
 Author: FBI
 File type: application/pdf
 Last modified: 2011-11-08T02:58:01Z
 
+Tue Jan 07 20:26:29 CET 2014 -- "saucer" found in file "ufo9.pdf"
+Tue Jan 07 20:26:29 CET 2014 -- "flying saucer" found in file "ufo9.pdf"

@@ -136,14 +136,39 @@ public class TikaSkeleton {
 		// type, and last modification date implement
 		updatelogMetaData(f);
 
+		Tika tika = new Tika();
+		String fileContent = null;
+
+		try {
+			fileContent = tika.parseToString(f);
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (TikaException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		Boolean contains = false;
 		// to update the log file with a search hit, use:
 		for (String keyword : keywords) {
-			// updatelogHit(keyword, f.getName());
+			Pattern p = Pattern.compile(keyword,Pattern.CASE_INSENSITIVE);
+			Matcher m = p.matcher(fileContent);
+			int count = 0;
+			while (m.find()) {
+				count += 1;
+			}
+			keyword_counts.put(keyword, keyword_counts.get(keyword)+ count);
+			if (count > 0){
+				updatelogHit(keyword, f.getName());
+				contains = true;
+			}
 		}
+		
+		if(contains) num_fileswithkeywords++;
 	}
 
 	private void updatelogMetaData(File file) {
-		logfile.println(" -- " + " data on file \"" + file.getName() + "\"");
+		logfile.println("\n\n -- " + " data on file \"" + file.getName() + "\"");
 		/***** YOUR CODE GOES HERE *****/
 
 		Tika tika = new Tika();
